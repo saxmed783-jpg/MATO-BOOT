@@ -1,0 +1,66 @@
+.heasd {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+
+.heasd2 {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+
+body {
+
+    background: rgb(40, 39, 39);
+
+}
+
+.main-img {
+
+    width: 30%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 90px;
+
+}
+
+.paragraf {
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: block;
+}
+
+.list {
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: block;
+}
+
+.submit {
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+}
+
+.input {
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    display: block
+}
